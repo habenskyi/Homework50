@@ -1,0 +1,15 @@
+C:\Cisharp\HOMEWORK\HomeWork50\bin\Debug\net6.0\HomeWork50.exe
+C:\Cisharp\HOMEWORK\HomeWork50\bin\Debug\net6.0\HomeWork50.deps.json
+C:\Cisharp\HOMEWORK\HomeWork50\bin\Debug\net6.0\HomeWork50.runtimeconfig.json
+C:\Cisharp\HOMEWORK\HomeWork50\bin\Debug\net6.0\HomeWork50.dll
+C:\Cisharp\HOMEWORK\HomeWork50\bin\Debug\net6.0\HomeWork50.pdb
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.csproj.AssemblyReference.cache
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.AssemblyInfoInputs.cache
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.AssemblyInfo.cs
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.csproj.CoreCompileInputs.cache
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.dll
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\refint\HomeWork50.dll
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.pdb
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\HomeWork50.genruntimeconfig.cache
+C:\Cisharp\HOMEWORK\HomeWork50\obj\Debug\net6.0\ref\HomeWork50.dll
